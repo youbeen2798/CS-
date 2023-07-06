@@ -12,3 +12,9 @@
 - 2. 글로 정리하며, 중요하다고 생각되는 단어와 흐름으로 질문을 만든다.
 - 3. 직접 만든 질문을 서로의 면접관이 되어 질문하고 토론한다.
 
+# 1일차
+
+<summary>컴퓨터 시스템 개요 </summary>
+<div markdown="1">
+  <link> https://youtu.be/EdTtGv9w2sA</link>
+</details>
