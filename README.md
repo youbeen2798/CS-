@@ -19,5 +19,12 @@
     <div markdown="1">
     <link> https://youtu.be/EdTtGv9w2sA</link>
 </details>
+
+<details>
+  <summary> 운영체제 </summary>
+    <div markdown="1">
+    <link> https://youtu.be/nxl_cUd55Ag </link>
 </details>
+
+
 
