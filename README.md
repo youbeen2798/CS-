@@ -23,8 +23,8 @@
 <details>
   <summary> 운영체제 </summary>
     <div markdown="1">
-   <link> https://youtu.be/nxl_cUd55Ag </link>
-   <link> https://youtu.be/hzXVQIlSSos </link>
+   <link> https://youtu.be/nxl_cUd55Ag </link> <br />
+   <link> https://youtu.be/hzXVQIlSSos </link> <br />
    <link>  https://youtu.be/knF9lzHA3LI </link>
 </details>
 
