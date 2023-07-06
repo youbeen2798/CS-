@@ -14,7 +14,10 @@
 
 # 1일차
 
-<summary>컴퓨터 시스템 개요 </summary>
-<div markdown="1">
-  <link> https://youtu.be/EdTtGv9w2sA</link>
+<details>
+  <summary>컴퓨터 시스템 개요 </summary>
+    <div markdown="1">
+    <link> https://youtu.be/EdTtGv9w2sA</link>
 </details>
+</details>
+
