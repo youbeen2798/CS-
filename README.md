@@ -25,20 +25,20 @@
 
 ## 🔼 Computer Science
 
-### 1일차
 <details>
-  <summary>컴퓨터 시스템 개요 </summary>
-    <div markdown="1">
-    <link> https://youtu.be/EdTtGv9w2sA</link>
+  <summary>1주차</summary>
+  <div markdown="1">
+    
+  ### 23.07.13 목요일
+  [컴퓨터 시스템 개요](https://youtu.be/EdTtGv9w2sA) </br>
+  [운영체제 1](https://youtu.be/nxl_cUd55Ag) </br>
+  [운영체제 2](https://youtu.be/hzXVQIlSSos) </br>
+  [운영체제 3](https://youtu.be/knF9lzHA3LI)
+
+  
+  </div>
 </details>
 
-<details>
-  <summary> 운영체제 </summary>
-    <div markdown="1">
-   <link> https://youtu.be/nxl_cUd55Ag </link> <br />
-   <link> https://youtu.be/hzXVQIlSSos </link> <br />
-   <link>  https://youtu.be/knF9lzHA3LI </link>
-</details>
 
 
 
