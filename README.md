@@ -26,7 +26,7 @@
 ## 🔼 Computer Science
 
 <details>
-  <summary>1주차</summary>
+  <summary>1주차 - OS</summary>
   <div markdown="1">
     
   ### 23.07.13 목요일
@@ -39,6 +39,18 @@
   </div>
 </details>
 
+<details>
+  <summary>2주차 - OS</summary>
+  <div markdown="1">
+    
+  ### 23.07.17 월요일
+  [프로세스 관리 1](https://www.youtube.com/watch?v=jZuTw2tRT7w&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=5&t=1389s) </br>
+  [프로세스 관리2](https://www.youtube.com/watch?v=MJTr37lgaMA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=6&t=761s) </br>
+  [스레드 관리](https://www.youtube.com/watch?v=YlnvCIZQDkw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=7) </br>
+
+  
+  </div>
+</details>
 
 
 
