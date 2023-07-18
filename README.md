@@ -51,7 +51,6 @@
 
   ### 23.07.20 목요일
   [프로세스와 스케줄링](https://www.youtube.com/watch?v=_gNeoGQx-Tc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=8) </br>
-  
   추가과제: ContextSwitching과 Inturrupt 예상질문 뽑아오기
 
   
