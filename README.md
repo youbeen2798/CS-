@@ -48,6 +48,12 @@
   [프로세스 관리2](https://www.youtube.com/watch?v=MJTr37lgaMA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=6&t=761s) </br>
   [스레드 관리](https://www.youtube.com/watch?v=YlnvCIZQDkw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=7) </br>
 
+
+  ### 23.07.20 목요일
+  [프로세스와 스케줄링](https://www.youtube.com/watch?v=_gNeoGQx-Tc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=8) </br>
+  
+  추가과제: ContextSwitching과 Inturrupt 예상질문 뽑아오기
+
   
   </div>
 </details>
