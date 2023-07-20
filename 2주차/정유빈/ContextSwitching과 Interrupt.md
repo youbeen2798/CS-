@@ -33,4 +33,8 @@
 <h1> Interrupt handling </h1>
 
 - 이후, Interrupt handler라는 처리기로 인터럽트가 발생한 원인 및 장소를 파악하고, 이를 처리하기 위해 어떤 Service Routine을 호출할 것인지를 결정한다.
+- 즉, Interrupt Vector 테이블을 참조하여 호출할 ISR(인터럽트 서비스 루틴) 주소 값을 얻는다.
 - Interrupt Service Rountine(ISR)이라는 인터럽트 처리 동작을 수행하게 된다.
+
+
+<H1> 참고 </H1>
