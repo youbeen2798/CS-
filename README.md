@@ -59,3 +59,15 @@
 
 
 
+<details>
+  <summary>3주차 - OS</summary>
+  <div markdown="1">
+    
+  ### 23.07.24 월요일
+  [FCFS, RR](https://www.youtube.com/watch?v=r1JVA7yOPAM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=9) </br>
+  [SPN, SRTN, HRRN](https://www.youtube.com/watch?v=keY9Wi7scEs&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=10) </br>
+  [MLQ, MFQ](https://www.youtube.com/watch?v=actKUqea6Xc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=11) </br>
+  
+  
+  </div>
+</details>
