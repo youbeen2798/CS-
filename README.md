@@ -67,7 +67,11 @@
   [FCFS, RR](https://www.youtube.com/watch?v=r1JVA7yOPAM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=9) </br>
   [SPN, SRTN, HRRN](https://www.youtube.com/watch?v=keY9Wi7scEs&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=10) </br>
   [MLQ, MFQ](https://www.youtube.com/watch?v=actKUqea6Xc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=11) </br>
-  
+
+  ### 23.07.27 목요일 (사정상 금요일 스터디 목요일 11시로 옮김)
+  [프로세스 동기화 & 상호배제(1)](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12&t=1s) </br>
+  [프로세스 동기화 & 상호배제(2)](https://www.youtube.com/watch?v=lY43KR3IItw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=13) </br>
+  [프로세스 동기화 & 상호배제(3)](https://www.youtube.com/watch?v=Zps0ckSvKys&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=14) </br>
   
   </div>
 </details>
