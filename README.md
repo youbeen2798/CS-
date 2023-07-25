@@ -77,7 +77,7 @@
   <div markdown="1">
     
   ### 23.07.27 목요일
-  [상호배제](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12) </br>
+  [동기화 & 상호배제](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12) </br>
   [상호 배제 SW solution](https://www.youtube.com/watch?v=lY43KR3IItw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=13) </br>
   [상호 배제 HW solution](https://www.youtube.com/watch?v=Zps0ckSvKys&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=15) </br>
   
