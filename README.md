@@ -69,9 +69,9 @@
   [MLQ, MFQ](https://www.youtube.com/watch?v=actKUqea6Xc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=11) </br>
 
   ### 23.07.27 목요일 (사정상 금요일 스터디 목요일 11시로 옮김)
-  [프로세스 동기화 & 상호배제(1)](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12&t=1s) </br>
-  [프로세스 동기화 & 상호배제(2)](https://www.youtube.com/watch?v=lY43KR3IItw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=13) </br>
-  [프로세스 동기화 & 상호배제(3)](https://www.youtube.com/watch?v=Zps0ckSvKys&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=14) </br>
+  [프로세스 동기화 & 상호배제](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12&t=1s) </br>
+  [프로세스 동기화 & 상호배제_SW Solution](https://www.youtube.com/watch?v=lY43KR3IItw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=13) </br>
+  [프로세스 동기화 & 상호배제_HW Solution](https://www.youtube.com/watch?v=Zps0ckSvKys&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=14) </br>
   
   </div>
 </details>
@@ -80,11 +80,11 @@
   <summary>4주차 - OS</summary>
   <div markdown="1">
     
-  ### 23.07.27 목요일
-  [동기화 & 상호배제](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12) </br>
-  [상호 배제 SW solution](https://www.youtube.com/watch?v=lY43KR3IItw&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=13) </br>
-  [상호 배제 HW solution](https://www.youtube.com/watch?v=Zps0ckSvKys&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=15) </br>
-  
+  ### 23.07.31 월요일 
+  [프로세스 동기화 & 상호배제_Spinlock](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12&t=1s) </br>
+  [프로세스 동기화 & 상호배제_Semaphore](https://www.youtube.com/watch?v=CitsUz-Dx7A&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=16) </br>
+  [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
+  [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br>
   
   </div>
 </details>
