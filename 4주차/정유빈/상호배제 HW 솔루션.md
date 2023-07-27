@@ -12,3 +12,6 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1ea5a282-ae0e-4e75-9714-1d7f6af9e68b)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/95b85fea-3f64-444f-b296-716cfc8fc617)
+
+- 3개 이상의 프로세스 경우, Bounded waiting 조건 위배
+- 1번 프로세스가 CS를 빠져나가고, lock을 false로 만들었을 때, while문에서 프로세스 2와 프로세스 3이 기다린다면 같이 Critical Section 접근
