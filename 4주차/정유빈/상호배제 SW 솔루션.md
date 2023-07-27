@@ -16,3 +16,5 @@
 - 다익스트라
   - 최초로 프로세스 n개의 상호배제 문제를 소프트웨어적으로 해결
   - 실행 시간이 가장 짧은 프로세스에 프로세서 할당하는 세마포어 방법, 가장 짧은 평균 대기시간 제공
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/396b762f-3f72-401e-8bcb-9b71881fdca7)
+  - ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/79ee81e7-7bf7-4162-b376-c91c46b90ef9)
