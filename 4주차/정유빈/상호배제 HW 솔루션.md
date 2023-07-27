@@ -9,3 +9,6 @@
     - <b> 실행 중 interrupt를 받지 않음(preemption 되지않음)
   - Busy waiting
     - Inefficient
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1ea5a282-ae0e-4e75-9714-1d7f6af9e68b)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/95b85fea-3f64-444f-b296-716cfc8fc617)
