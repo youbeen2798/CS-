@@ -24,3 +24,13 @@
    - 할당 단위에 따른 분류
    - 동시 사용 가능 여부에 따른 분류
    - 재사용 가능 여부에 따른 분류
+
+<h3> 선점 가능 여부에 따른 분류 </h3>
+
+- <b> Preemptible resources </b>
+  - 선점 당한 후, 돌아와도 문제가 발생하지 않는 자원
+  - Processor, memory 등
+- <b> Non-preemptible resources </b>
+  - 선점 당하면, 이후 진행에 문제가 발생하는 자원
+  - Rollback, restart 등 특별한 동작이 필요
+  - ex) disk drive 등
