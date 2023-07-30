@@ -14,3 +14,13 @@
 - DeadLock vs Starvation
   - DeadLock : blocked 상태에서 <b> 가능성이 zero </b> 인 자원 혹은 event를 기다리는 상태
   - Starvation : ready 상태(cpu로부터 자원을 할당받기를 기다리는 상태)에서 운이 없어서, 우선순위가 계속 밀리는 상태
+
+<h1> 자원의 분류 </h1>
+
+ - 일반적 분류
+   - Hardware resources vs Software resources
+ - 다른 분류 법
+   - 선점 가능 여부에 따른 분류
+   - 할당 단위에 따른 분류
+   - 동시 사용 가능 여부에 따른 분류
+   - 재사용 가능 여부에 따른 분류
