@@ -9,3 +9,5 @@
     - 프로세스가 deadlock 상태에 있음
   - 시스템 내에 deadlock에 빠진 프로세스가 있는 경우
     - 시스템이 deadlock 상태에 있음
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/355c4502-bf49-4bae-a38c-e9245fa0a24e)
