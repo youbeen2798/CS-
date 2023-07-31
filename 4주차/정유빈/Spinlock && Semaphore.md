@@ -59,4 +59,5 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/3fadc460-526e-4932-a5f5-39b1e1c30dbf)
 
 - buffer는 한 번에 한 프로세스만 접근할 수 있다.
-- 
+- ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/99a82a34-cfa2-423e-843d-ca4ba9591817)
+
