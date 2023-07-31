@@ -81,7 +81,7 @@
   <div markdown="1">
     
   ### 23.07.31 월요일 
-  [프로세스 동기화 & 상호배제_Spinlock](https://www.youtube.com/watch?v=wdaf2gy83uU&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=12&t=1s) </br>
+  [프로세스 동기화 & 상호배제_Spinlock](https://www.youtube.com/watch?v=33OqgesF-mM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=15) </br>
   [프로세스 동기화 & 상호배제_Semaphore](https://www.youtube.com/watch?v=CitsUz-Dx7A&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=16) </br>
   
 
