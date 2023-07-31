@@ -19,3 +19,12 @@
 - 단점 
   - 멀티 프로세스만 사용 가능
   - CS에서 멈추게 되면, 다른 프로세스 사용 불가능 -> <b> Busy Waiting </b>
+
+<h1> Semaphore </h1>
+
+- BusyWaiting 문제 해결 가능
+- 음이 아닌 정수형 변수(S)
+  - 초기화 연산, P(), V()로만 접근 가능
+  - P: Problem(검사) - 들어가기 전에 검사
+  - V: Verhogen(증가) - 나가고 검사
+  - 임의의 S 변수 하나에 ready queue 하나가 할당 됨
