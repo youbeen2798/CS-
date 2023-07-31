@@ -43,3 +43,5 @@
 - P : 물건이 있다면, 물건을 가지고 가라. 물건이 없다면 Q(대기실)에서 기다려라.
   - Spin과 차이점 : 물건이 없다면, while문에서 돈다.
 - V : Q에서 기다리는 애가 있다면, 기다리는 애를 깨워서 준다.
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/05a80ec9-917a-480f-92d2-1fda8000fa0e)
