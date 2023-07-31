@@ -47,3 +47,4 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/05a80ec9-917a-480f-92d2-1fda8000fa0e)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/223143d9-e660-4088-8012-aacd970a45fe)
+- CS에서 나오면 큐에서 기다리던 프로세스를 깨워준다.
