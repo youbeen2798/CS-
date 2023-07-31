@@ -16,3 +16,6 @@
 - V : 물건을 반납하는 과정
 
 - ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/7eb40d16-9872-494d-851e-2afc8b440963)
+- 단점 
+  - 멀티 프로세스만 사용 가능
+  - CS에서 멈추게 되면, 다른 프로세스 사용 불가능
