@@ -86,9 +86,17 @@
   
 
 
-  ### 23.08.04 금요일
-  [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
-  [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br>
+  ### 23.08.03 목요일
+  ### 다시 복습하기 - 제대로 이해가 안되어 다시 짚고 넘어가기)
+  [프로세스 동기화 & 상호배제_Spinlock](https://www.youtube.com/watch?v=33OqgesF-mM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=15) </br>
+  [프로세스 동기화 & 상호배제_Semaphore](https://www.youtube.com/watch?v=CitsUz-Dx7A&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=16) </br>
+
+  <참고 블로그> </br>
+  https://steady-coding.tistory.com/517 </br>
+
+  
+ <!-- [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
+  [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br> -->
   
   </div>
 </details>
