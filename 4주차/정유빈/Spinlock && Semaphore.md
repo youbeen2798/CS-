@@ -11,3 +11,8 @@
   - 전체가 한 instruction cycle 수행 됨
  
     ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1c566bad-9917-4670-bccc-d540ccb4ea7d)
+
+- P : 물건을 꺼내가는 과정
+- V : 물건을 반납하는 과정
+
+- ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/7eb40d16-9872-494d-851e-2afc8b440963)
