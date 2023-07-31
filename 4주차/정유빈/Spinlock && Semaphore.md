@@ -28,3 +28,12 @@
   - P: Problem(검사) - 들어가기 전에 검사
   - V: Verhogen(증가) - 나가고 검사
   - 임의의 S 변수 하나에 ready queue 하나가 할당 됨
+
+- <b> Binary semaphore </b>
+  - S가 0과 1 두 종류의 값만 갖는 경우
+  - 상호 배제나 프로세스 동기화의 목적으로 사용
+ 
+- <b> Counting semaphore </b>
+  - S가 0이상의 정수 값을 가질 수 있는 경우
+  - Producer-Customer 문제 등을 해결하기 위해 사용
+    - 생산자-소비자 문제
