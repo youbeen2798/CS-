@@ -48,3 +48,12 @@
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/223143d9-e660-4088-8012-aacd970a45fe)
 - CS에서 나오면 큐에서 기다리던 프로세스를 깨워준다.
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/e2a4569c-78fd-43a2-b340-9dda82fa39f5)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/88cbca93-bc3b-423a-b06c-356323b8fd3e)
+- CS가 끝나면 대기 중인 프로세스를 깨운다.
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/46f4dd43-56b8-4f40-9e4c-0330725f0e92)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/d0464304-2147-4c46-99d0-bc4389a2296f)
