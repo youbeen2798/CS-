@@ -64,3 +64,6 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/d48a06f1-52cb-4a2a-a691-cceb4899b337)
 - 생산자는 공간이 있는지 확인하고, Consumer은 물건이 있는지 확인한다.
 - 생산자가 물건을 생산했으면 대기하고 있는 Consumer가 있는지 확인 후 wake up 시킨다.
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/397534dc-370c-41e5-a2c1-e20bcd701099)
+- Reader와 Writer은 서로 각자 움직인다.
+- Reader가 읽는 동안 Writer가 갱신하지 못한다.
