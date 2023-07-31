@@ -37,3 +37,9 @@
   - S가 0이상의 정수 값을 가질 수 있는 경우
   - Producer-Customer 문제 등을 해결하기 위해 사용
     - 생산자-소비자 문제
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/71b74e6d-5762-4022-8c5e-9b0cbb26d6e8)
+
+- P : 물건이 있다면, 물건을 가지고 가라. 물건이 없다면 Q(대기실)에서 기다려라.
+  - Spin과 차이점 : 물건이 없다면, while문에서 돈다.
+- V : Q에서 기다리는 애가 있다면, 기다리는 애를 깨워서 준다.
