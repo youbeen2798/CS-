@@ -70,3 +70,11 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/d3d59e05-6b79-4d58-a8c3-9e8ec10ecb04)
 - enter할 때, reader가 0이라면, writer 잠시 기다려!
 - exit할 때, reader가 0이라면 writer 너 작동해도 되! reader가 0이 아니라면, 그대로 기다리고 있어!
+
+<h1> Semaphore </h1>
+
+- <b> No busy waiting </b>
+  - 기다려야 하는 프로세스는 block(asleep) 상태가 됨
+  - 어떤 일이 있어도, while문을 돌지 않음
+- <b> Semaphore queue에 대한 wake-up 순서는 비결정적
+  - Starvation problem(기아상태)
