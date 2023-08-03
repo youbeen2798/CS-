@@ -87,7 +87,7 @@
 
 
   ### 23.08.03 목요일
-  ### 다시 복습하기 - 제대로 이해가 안되어 다시 짚고 넘어가기)
+  ### 다시 복습하기 - 이해 부족으로 다시 한번 복습하여 짚고 넘어가기
   [프로세스 동기화 & 상호배제_Spinlock](https://www.youtube.com/watch?v=33OqgesF-mM&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=15) </br>
   [프로세스 동기화 & 상호배제_Semaphore](https://www.youtube.com/watch?v=CitsUz-Dx7A&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=16) </br>
 
