@@ -108,6 +108,13 @@
   ### 23.08.07 월요일
   [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
   [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br>
+
+
+  ### 23.08.10 목요일
+  [Deadlock & Resource types](https://www.youtube.com/watch?v=xvoEsy2zJnc&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=19) </br>
+  [Deadlock model](https://www.youtube.com/watch?v=czjtYkjhtgo&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=20) </br>
+
+  #### + Spinlock, Semaphore, Mutax, Eventcount/Sequencer, Monitor 개념 및 코드 질문 준비해오기
   
   </div>
 </details>
