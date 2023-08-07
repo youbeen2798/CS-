@@ -1,7 +1,8 @@
+# Eventcount& Sequencer
+
 ### 은행의 번호표와 비슷한 개념
 
 </br>
-
 
 ### Sequencer
 - 정수형 변수
