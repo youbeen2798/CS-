@@ -94,10 +94,20 @@
   <참고 블로그> </br>
   https://steady-coding.tistory.com/517 </br>
 
-  
- <!-- [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
-  [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br> -->
+
   
   </div>
 </details>
 
+
+<details>
+  <summary>5주차 - OS</summary>
+  <div markdown="1">
+
+    
+  ### 23.08.07 월요일
+  [프로세스 동기화 & 상호배제_Eventcount/Sequencer](https://www.youtube.com/watch?v=S7l2UEXVhb0&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=17) </br>
+  [프로세스 동기화 & 상호배제_Monitor](https://www.youtube.com/watch?v=AnYN-kbCbRI&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=18) </br>
+  
+  </div>
+</details>
