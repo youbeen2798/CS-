@@ -41,3 +41,10 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/caa73801-98f3-43ad-8743-6bc117dabeb8)
 
 - S33에 도착하면 deadlock 발생
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/3425de25-2402-44b8-a347-8a0c40362857)
+<b> 자원 특성 </b>
+- Exclusive use of resources : 혼자 단독으로 사용하고
+- Non-preemptible resources : 비선점이고(뺏을 수 없고)
+<b> 프로세스 특성 </b>
+- Hold and wait(Partial allocation) 하나 가진채로 다른 자원 요청
+- Cirucular wait : 순환
