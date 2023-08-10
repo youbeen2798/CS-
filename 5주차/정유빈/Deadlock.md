@@ -35,5 +35,5 @@
 - Graph Model
 - State Transition Model
 
-- ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/d4ff4504-8316-46d2-84be-da016f7db861)
+- ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/2fc6885c-5a9e-4172-89be-c19a14d72770)
 
