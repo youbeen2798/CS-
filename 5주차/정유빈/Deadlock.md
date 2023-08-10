@@ -17,3 +17,12 @@
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/ad4ac8b8-2f75-4b2a-b32b-8d4aa4ced7f3)
 - 한 번에 모두를 다 주는 것 vs 나누어 주는 것
+
+ ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1f9a9a6c-d1fc-4e54-b36a-725a1a18292b)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/e6a9a33d-94a2-456e-93f1-04fa518f1766)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/12c16501-48e4-49c8-ad16-e59ef7f667ca)
+- 비선점 : 한번 할당받으면, 남을 못 주는 것
+- Exclusive allocation resources : 혼자 쓰는 것
+- 할당 단위는 영향을 미치지 않음
