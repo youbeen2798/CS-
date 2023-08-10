@@ -3,3 +3,14 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/e249061c-4005-46f4-ae63-65000f7e065a)
 - deadlock 상태는 자원 가능성 zero
 - starvation  상태는 cpu 자원 할당을 기다리는 것
+
+<h1> 자원의 분류 </h1>
+
+- 일반적 분류
+  - 하드웨어 자원 vs 소프트웨어 자원
+ 
+  ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/e59714c7-4182-4b1e-9791-928254e03aab)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/a044541b-256c-430d-b0a5-630da169d448)
+- Preemptible resources : 빼앗긴 후, 다시 돌아와도 문제가 발생하지 않는 자원
+- Non-preemptible resources : 선점 당하면, 이후 진행에 문제가 발생하는 자원
