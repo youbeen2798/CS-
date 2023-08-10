@@ -14,3 +14,6 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/a044541b-256c-430d-b0a5-630da169d448)
 - Preemptible resources : 빼앗긴 후, 다시 돌아와도 문제가 발생하지 않는 자원
 - Non-preemptible resources : 선점 당하면, 이후 진행에 문제가 발생하는 자원
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/ad4ac8b8-2f75-4b2a-b32b-8d4aa4ced7f3)
+- 한 번에 모두를 다 주는 것 vs 나누어 주는 것
