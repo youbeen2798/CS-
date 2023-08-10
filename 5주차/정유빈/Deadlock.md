@@ -26,3 +26,13 @@
 - 비선점 : 한번 할당받으면, 남을 못 주는 것
 - Exclusive allocation resources : 혼자 쓰는 것
 - 할당 단위는 영향을 미치지 않음
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/8df7ac4f-aae8-4413-82f3-9b055b096ca3)
+
+
+<h1> Deadlock Model(표현법) </h1>
+
+- Graph Model
+- State Transition Model
+
+- ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/13b2641c-ad57-490d-8de5-7f5bd5342b8e)
