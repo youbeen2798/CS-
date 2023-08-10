@@ -36,4 +36,8 @@
 - State Transition Model
 
 - ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/2fc6885c-5a9e-4172-89be-c19a14d72770)
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/cc176b0e-4a3e-4c60-8e66-2c427dd03923)
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/5cfd8bac-efb2-4a3e-b2e8-f15a3b893e6c)
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/caa73801-98f3-43ad-8743-6bc117dabeb8)
 
+- S33에 도착하면 deadlock 발생
