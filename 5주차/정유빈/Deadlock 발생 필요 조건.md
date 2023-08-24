@@ -23,3 +23,7 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/ad25ecd1-9606-4337-8b6f-bc90fba7e98f)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1fcbdc55-6889-42bb-abe1-32311810f958)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/0901c296-f8f9-40ff-84ac-58cc2a663149)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/afb9964a-8e6f-4dce-bef8-296a14cdf560)
