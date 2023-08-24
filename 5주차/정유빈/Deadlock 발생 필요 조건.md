@@ -37,3 +37,5 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/0984ebb2-02e5-4d7f-81c0-7abc6704739b)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/54e9b6bf-66a0-41f1-b623-78d8423d3a33)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/f8b132a7-ebb5-4d2f-bdf2-44d138b88de9)
