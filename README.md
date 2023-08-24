@@ -118,3 +118,19 @@
   
   </div>
 </details>
+
+
+
+<details>
+  <summary>6주차 - OS</summary>
+  <div markdown="1">
+
+    
+  ### 23.08.21 월요일
+  [Deadlock Prevention](https://www.youtube.com/watch?v=XMrlt3ZwfM4&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=21) </br>
+  [Deadlock avoidance](https://www.youtube.com/watch?v=qmtOsmixfsA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=22) </br>
+
+
+  
+  </div>
+</details>
