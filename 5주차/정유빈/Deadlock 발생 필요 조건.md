@@ -6,6 +6,8 @@
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/14749cb8-ba0f-481d-9e1e-f8e8e3e6aba4)
 
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/9d7887bf-38a7-44a4-ae9d-dfc490fd5134)
+
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/b0c61d0d-1104-4b6d-b09f-f521db59eb0d)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/c53fe5d6-b9b9-4bad-883b-bf77f1019ef3)
