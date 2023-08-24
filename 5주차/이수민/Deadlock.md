@@ -1,4 +1,4 @@
-![image](https://github.com/leesuuuuumm/Deep-CS-study_for_interview/assets/58407737/528b1de6-48eb-4267-858e-c6cafa7d06e0)### Blocked/Asleep state
+### Blocked/Asleep state
 프로세스가 필요한 자원, 특정 이벤트를 기다리는 상태 </br>
 
 </br>
