@@ -6,7 +6,8 @@
 </br>
 
 ## 🔼 스터디 시간
-- 매주 월, 목 22시 
+- 매주 월, 목 22시
+(당분간 매주 월요일에만 진행)
 
 
 </br>
@@ -130,6 +131,17 @@
   [Deadlock Prevention](https://www.youtube.com/watch?v=XMrlt3ZwfM4&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=21) </br>
   [Deadlock avoidance](https://www.youtube.com/watch?v=qmtOsmixfsA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=22) </br>
 
+
+  
+  </div>
+</details>
+<details>
+  <summary>7주차 - OS</summary>
+  <div markdown="1">
+
+    
+  ### 23.09.04 월요일
+  [Deadlock detection and Recovery](https://www.youtube.com/watch?v=8XbSgZ2JPQ8&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN&index=23) </br>
 
   
   </div>
