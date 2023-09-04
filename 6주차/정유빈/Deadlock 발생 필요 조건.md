@@ -23,3 +23,21 @@
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/ad25ecd1-9606-4337-8b6f-bc90fba7e98f)
 
 ![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/1fcbdc55-6889-42bb-abe1-32311810f958)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/0901c296-f8f9-40ff-84ac-58cc2a663149)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/afb9964a-8e6f-4dce-bef8-296a14cdf560)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/32ea2818-ee12-49be-9c8e-8bb5ea7431e4)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/8bab5753-522c-4938-973f-227c1e90d6ee)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/f812dd6b-c917-4ddc-a4d2-72eae36d739e)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/0984ebb2-02e5-4d7f-81c0-7abc6704739b)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/54e9b6bf-66a0-41f1-b623-78d8423d3a33)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/f8b132a7-ebb5-4d2f-bdf2-44d138b88de9)
+
+![image](https://github.com/youbeen2798/Deep-CS-study_for_interview/assets/62228401/4d86019b-c312-496f-8c3b-97fd489ba10d)

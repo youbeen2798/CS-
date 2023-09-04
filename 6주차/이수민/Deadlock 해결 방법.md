@@ -34,7 +34,6 @@ Deadlock을 절대 발생 시키지 않겠다. </br>
 - 자원 낭비 발생
   -  필요하지 않은 순간에도 가지고 있음
 - 무한 대기 현상 발생 가능
-![image](https://github.com/leesuuuuumm/Deep-CS-study_for_interview/assets/58407737/ed32b954-dbfc-4376-9508-cea98d381ec2)
 
 
 </br>
@@ -44,6 +43,10 @@ Deadlock을 절대 발생 시키지 않겠다. </br>
 - 자원들에게 순서 부여
 - 프로세스는 순서의 증가하는 방향으로만 자원 요청 가능
 - 자원 낭비 발생
+
+</br>
+
+![image](https://github.com/leesuuuuumm/Deep-CS-study_for_interview/assets/58407737/ed32b954-dbfc-4376-9508-cea98d381ec2)
 
 </br>
 
